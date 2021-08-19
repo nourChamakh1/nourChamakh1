@@ -5,15 +5,13 @@
 
 [![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nourchamakh/">Linkedin</a> •
-</p>
 
 # <Hello World!>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nourchamakh/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/louayyahyaoui)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:louay.yahyaoui@esprit.tn)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/nour__chamakh/?hl=fr)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nour.chamakh@etudiant-fst.utm.tn
+)
 
 
 
