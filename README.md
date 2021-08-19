@@ -14,16 +14,15 @@
 
 
 
-<img align= "right" height= "250" width="400" src= "https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif"/>
 
 
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- 🌱 I’m currently learning 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
+
 <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats-nine-black.vercel.app/api?username=nourChamakh1&hide_border=true&show_icons=true)"
 />
 
