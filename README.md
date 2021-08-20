@@ -1,12 +1,4 @@
 
-![WELCOME TO MY GITHUB_free-file](https://user-images.githubusercontent.com/50649514/130172998-e7d01b20-0cf8-4264-9d30-57f787f255b2.png)
-
-
-
-
-
-
-
 
 
 <h2> Hi, I'm Nour Chamakh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
