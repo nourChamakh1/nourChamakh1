@@ -46,12 +46,7 @@ const nour = {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
-<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats-nine-black.vercel.app/api?username=nourChamakh1&hide_border=true&show_icons=true&theme=Customizing stats card)"/>
+<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats-nine-black.vercel.app/api?username=nourChamakh1&hide_border=true&show_icons=true&theme=gradient)"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
