@@ -50,6 +50,7 @@ const nour = {
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nourChamakh1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourChamakh1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourChamakh1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourChamakh1&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
