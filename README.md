@@ -1,9 +1,8 @@
 <!--<h3 align="center">
-![image](C:\Users\chama\Downloads\WELCOME TO MY GITHUB_free-file.png)
-</h3> -->
 ![WELCOME TO MY GITHUB_free-file](https://user-images.githubusercontent.com/50649514/130172998-e7d01b20-0cf8-4264-9d30-57f787f255b2.png)
 
-[![160744959694494596](C:\Users\chama\Downloads\WELCOME TO MY GITHUB_free-file.png)](https://github.com/sw-yx?tab=repositories)
+</h3> -->
+
 
 
 
