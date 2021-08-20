@@ -47,5 +47,6 @@ const nour = {
 
 ![Anurag's GitHub stats](https://github-readme-stats-nine-black.vercel.app/api?username=nourChamakh1&hide_border=true&show_icons=true&theme=cobalt)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nourChamakh1)])
 
 
