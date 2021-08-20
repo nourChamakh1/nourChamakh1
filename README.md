@@ -26,7 +26,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const nour = {
   pronouns: "she" | "her",
   code: [Javascript,HTML, CSS, PHP, Java],
   tools: [Docker, Laravel8 , AWS],
