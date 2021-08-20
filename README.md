@@ -31,11 +31,11 @@ const nour = {
   code: [Javascript,HTML, CSS, PHP, Java],
   tools: [Docker, Laravel8 , AWS],
   architecture: ["microservices"],
-  techCommunities: {
+  <-- techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
-                      },
+                      }, -->
  challenge: "I am doing the #100DaysOfCode challenge focused on Laravel8 , AWS and Docker "
 }
 ```
